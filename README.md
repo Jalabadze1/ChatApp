@@ -55,3 +55,8 @@ BUILT WITH
       ⦁	Authentication - For Creating account with email.
 
 
+SCREENSHOTS
+
+![login](https://user-images.githubusercontent.com/57368912/175537059-70805c62-9071-401f-b51c-b9cd629434eb.PNG)
+![signup](https://user-images.githubusercontent.com/57368912/175537083-41fca8a8-ab86-4993-b1a1-c0b6a83137f6.PNG)
+![main_act](https://user-images.githubusercontent.com/57368912/175537115-73243979-906c-405f-8d00-7b1272c0795a.PNG)
